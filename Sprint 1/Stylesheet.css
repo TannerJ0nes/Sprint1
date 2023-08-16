@@ -1,0 +1,152 @@
+#MainBox {
+  width: 1000px;
+  background-color: #00205b;
+  border: 3px solid black;
+  text-align: left;
+  padding: 15px;
+  margin: 35px;
+  
+}
+
+body {
+  background-image: url(./LeafsPics/LeafsLogo.png);
+  background-repeat: repeat;
+}
+
+header {
+  color: #ffffff;
+  width: 100%;
+  align-self: center;
+}
+
+button {
+  height: 100px;
+  width: 175px;
+  border-radius: 10px;
+  color: #fb4f14;
+  font-weight: 1000;
+  font-size: 12pt;
+  padding-top: 50px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.button1 {
+  background-image: url(./LeafsPics/arena.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button2 {
+  background-image: url(./LeafsPics/history.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button3 {
+  background-image: url(./LeafsPics/player.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button4 {
+  background-image: url(./LeafsPics/cup.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button5 {
+  background-image: url(./LeafsPics/2023.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+.statstable {
+  background-color: white;
+}
+
+.tdimg {
+  width: 50%;
+}
+
+table caption {
+  text-align: center;
+  background-color: #95b9c7;
+  font-size: 20pt;
+  font-weight: bolder;
+}
+
+table th {
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: 900;
+  font-size: 17pt;
+  text-align: left;
+  padding-left: 5px;
+}
+
+table td {
+  margin: 0;
+  padding: 5px;
+}
+
+.imglink {
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+  display: flex;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.tdlink {
+  background-image: url(./LeafsPics/ticketsbackground.jpeg);
+  background-repeat: repeat;
+}
+
+table tr {
+  color: white;
+  font-size: 11pt;
+}
+
+#footerbox {
+  width: 1000px;
+  height: 50px;
+  background-color: #00205b;
+}
+
+h2 {
+  color: #ffffff;
+}
+
+h3 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+aside {
+  float:right
+}
+
+.totheleft {
+  float:left
+}
+
+li {
+  color: #ffffff;
+}
+
+a {
+  color: #ffffff;
+}
